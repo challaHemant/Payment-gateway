@@ -2,9 +2,7 @@
 
 This project demonstrates the integration of multiple payment gateways, including **Stripe**, **Razorpay**, **PayPal**, and **Coinbase**, using **Next.js 14**. It showcases how to implement these popular payment solutions in a web application.
 
-## Live Demo
 
-Check out the live demo [here](https://payment-gateways-demo.vercel.app).
 
 ## Features
 
@@ -90,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/premprakashsharma/)  
+[LinkedIn](https://www.linkedin.com/in/hemant-challa/)  
 
 <a href="https://www.buymeacoffee.com/premprakash.dev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=premprakash.dev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
