@@ -11,7 +11,7 @@ export default function Home() {
           Souce code available at&nbsp;
           <Link
             className="hover:underline"
-            href="https://github.com/PremPrakashCodes/payment-gateways"
+            href="https://github.com/challaHemant/Payment-gateway"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -25,7 +25,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By <span className="text-2xl tracking-tighter">Prem Prakash Sharma</span>
+            By <span className="text-2xl tracking-tighter">Challa Hemanth</span>
           </Link>
         </div>
       </div>
